@@ -4,7 +4,7 @@ The Bakeneko 60 and 65 keyboards designed by kkatano have become well-known in t
 
 ## Supported Layouts
 
-There are three different plate files included. All plates should be compatible with both the open-source V3 boards and the Cannon Key versions, and are likely also compatible with derivative boards such as the Ciel, Phantom, and Block-67.
+There are three different plate files included. All plates should be compatible with both the open-source V3 boards and the Cannon Keys versions, and are likely also compatible with derivative boards such as the Ciel, Phantom, and Block-67.
 
 The **Bakeneko 60 V3** and **Bakeneko 65 V3** files support all layouts supported by the default PCBs designed by kkatano included in those boards' respective repositories. These include:
 
