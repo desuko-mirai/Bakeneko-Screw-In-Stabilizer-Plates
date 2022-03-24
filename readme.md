@@ -26,9 +26,3 @@ Each plate includes:
 ![Bakeneko 65 V3](/Images/65V3.png)
 
 Images are of FR4 plates
-
-## Example
-
-Below is my Bakeneko 65 V3 (top) and Block-67 R1 (bottom), both of which feature a plate with o-ring cutouts.
-
-![Real-World Example](/Images/example.jpg)
