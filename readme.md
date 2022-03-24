@@ -2,38 +2,33 @@
 
 The Bakeneko 60 and 65 keyboards designed by kkatano have become well-known in the community and are loved by many, however some people take issue with being forced to use clip-in stabilizers. This collection of plates features cutouts above the stabilizers, as seen on Bakeneko-derived boards such as the Phantom by Maker Keyboards and Block-67 by ENG Studio, allowing the o-ring to sit above the stabilizers and eliminating the issue of interference.
 
-## Supported Layouts
+## Layout and Keyboard Support
 
-There are three different plate files included. All plates should be compatible with both the open-source V3 boards and the Cannon Key versions, and are likely also compatible with derivative boards such as the Ciel, Phantom, and Block-67.
+The **Bakeneko 60 V3** plate supports all layouts supported by the [Bakeneko 60 V3 PCB](https://github.com/kkatano/bakeneko-60). It can be used in the Bakeneko 60 V3, Cannon Keys Bakeneko 60, Ciel[^confirm], and Unikorn[^confirm].
 
-The **Bakeneko 60 V3** and **Bakeneko 65 V3** files support all layouts supported by the default PCBs designed by kkatano included in those boards' respective repositories. These include:
+The **Bakeneko 65 V3** plate supports all layouts supported by the [Bakeneko 65 V3 PCB](https://github.com/kkatano/bakeneko-65). It can be used in the Bakeneko 65 V3, Cannon Keys Bakeneko 65, Block-67, Phantom, and Portal[^confirm].
 
-- Standard or Stepped Caps Lock
-- Standard or Split Backspace
-- Standard or Split Right Shift (Bakeneko 60 Only)
-- 6.25u or 7u Bottom Row
+Either plate should also work with any keyboard derived from the Bakeneko design.
 
-![Bakeneko 60](/images/bakeneko-60-v3-layout.png)
-![Bakeneko 65](/images/bakeneko-65-v3-layout.png)
-
-The **Bakeneko 60 Extended** plate, as the name suggests, expands upon the default layout, adding support for the variety of 3rd party plates compatible with the Bakeneko 60. Supported layouts are all of those supported by the **Bakeneko 60 V3** plate, as well as:
-
-- ANSI or ISO Enter
-- 2.25u or Split (ISO) Left Shift
-- 10u Spacebar
-- Split Spacebar for 6.25u (2.75u | 1.25u | 2.25u) or 7u (3u | 1u | 3u) Bottom Row
-
-![Bakeneko 60 Extended](/images/bakeneko-60-extended-layout.png)
+[^confirm]: Compatibility with these boards is not confirmed, but they are based on the Bakeneko design (except the Unikorn, on which the Bakeneko is based) and so in theory are compatible.
 
 ## Included Files
 
-A STEP file and DXF file is included for each plate. You can send these to a manufacturer to have your plate laser cut or CNC machined from whatever material you desire. For "2D" parts such as keyboard plates, most manufacturers will accept DXF files, but some require a STEP file. The STEP files are for a standard thickness of 1.5 mm.
+Each plate includes:
 
-Gerber files for FR4 plates are coming, but for now you can use the DXF files to make your own if you know your way around EDA software.
+- DXF file for laser cutting
+- STEP file for machining
+- Gerber ZIP for FR4
 
-## More Images
+## Images
 
-![Bakeneko 60 V3 Plate](/images/bakeneko-60-v3-plate.png)
-![Bakeneko 60 Extended Plate](/images/bakeneko-60-extended-plate.png)
-![Bakeneko 65 V3 Plate](/images/bakeneko-65-v3-plate.png)
-![Real-World Example](/images/example.jpg)
+![Bakeneko 60 V3](/Images/60V3.png)
+![Bakeneko 65 V3](/Images/65V3.png)
+
+Images are of FR4 plates
+
+## Example
+
+Below is my Bakeneko 65 V3 (top) and Block-67 R1 (bottom), both of which feature a plate with o-ring cutouts.
+
+![Real-World Example](/Images/example.jpg)
